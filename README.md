@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A GitHub app that welcomes first-time contributors to your repository.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+The app posts friendly comments on new issues and pull requests, and congratulates first-time committers when their pull requests are merged.
 
 ## Getting started
 
